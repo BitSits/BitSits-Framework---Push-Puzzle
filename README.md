@@ -22,7 +22,7 @@ If you have problems getting the game to run. You should install [.NET Framework
 
 Credits
 ---
-- Game Design, Code & Graphics: [Shubhajit Saha]
+- Game Design, Code and Graphics: [Shubhajit Saha]
 
 - Music: Track "Back to old school" from Album [back to old school](http://www.jamendo.com/en/album/64123) by Danilo Mazzeo under [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License].
 
