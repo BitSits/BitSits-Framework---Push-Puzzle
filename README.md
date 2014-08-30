@@ -30,7 +30,7 @@ Credits
 
 - Sound effects are licensed under the [Creative Commons Sampling Plus 1.0 License].
 
-- Push Puzzle Uses: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
+- Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
 
 License
