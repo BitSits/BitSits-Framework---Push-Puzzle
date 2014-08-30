@@ -3,7 +3,7 @@ Push Puzzle
 The April theme for [Experimental Gameplay Project] is [Wash, Rinse, and REPEAT](http://experimentalgameplay.com/blog/2010/04/in-april-wash-rinse-and-repeat/).
 
 
-Download
+Download Executable
 ---
 [Push Puzzle.zip (6.69 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Push%20Puzzle.zip)
 
@@ -22,7 +22,7 @@ If you have problems getting the game to run. You should install [.NET Framework
 
 Credits
 ---
-- Game Design, Code and Graphics: [Shubhajit Saha]
+- Game Design, Code and Graphics: [Shubhajit Saha].
 
 - Music: Track "Back to old school" from Album [back to old school](http://www.jamendo.com/en/album/64123) by Danilo Mazzeo under [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License].
 
