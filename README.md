@@ -43,8 +43,8 @@ This work by [BitSits Games] is licensed under a [Creative Commons Attribution-N
 
 Reviews
 ---
-Best of the Net: Repeat, Experimental Gameplay Project. 
-Experimental Games Project – April – Repeat, Gamers with Jobs.
+- [Best of the Net: Repeat](http://experimentalgameplay.com/blog/2010/04/best-of-the-net-repeat/), Experimental Gameplay Project. 
+- [Experimental Games Project – April – Repeat](http://www.gamerswithjobs.com/node/50186), Gamers with Jobs.
 
 
 [.NET Framework 3.5 SP1]:http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
