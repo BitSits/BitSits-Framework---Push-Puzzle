@@ -1,8 +1,5 @@
 Push-Puzzle
 ===
-http://www.suvozit.com/2010/04/push-puzzle.html
-
-This is my first experimental game made in 4 days. I have tried to give a look of black board as if the puzzle is played on it.
 The April theme for [Experimental Gameplay Projects](http://experimentalgameplay.com/) is [Wash, Rinse, and REPEAT](http://experimentalgameplay.com/blog/2010/04/in-april-wash-rinse-and-repeat/).
 
 
@@ -62,3 +59,4 @@ Reviews
 
 [BitSits Games]:http://bitsits.blogspot.com/
 [Shubhajit Saha]:http://suvozit.com
+[Maya Agarwal]:http://maya8802.tumblr.com
