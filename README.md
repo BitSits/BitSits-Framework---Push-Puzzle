@@ -1,4 +1,4 @@
-Push-Puzzle
+Push Puzzle
 ===
 The April theme for [Experimental Gameplay Projects](http://experimentalgameplay.com/) is [Wash, Rinse, and REPEAT](http://experimentalgameplay.com/blog/2010/04/in-april-wash-rinse-and-repeat/).
 
@@ -17,7 +17,7 @@ But if you make a mess you have to repeat the level.
 
 Troubleshooting
 ---
-If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1]
+If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
 
 
 Credits
@@ -30,7 +30,7 @@ Credits
 
 - Sound effects are licensed under the [Creative Commons Sampling Plus 1.0 License].
 
-- Push Puzzle Uses: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf]
+- Push Puzzle Uses: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
 
 License
