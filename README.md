@@ -36,7 +36,7 @@ Credits
 - Push Puzzle Uses: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf]
 
 
-Creative Commons License
+License
 ---
 This work by [BitSits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
