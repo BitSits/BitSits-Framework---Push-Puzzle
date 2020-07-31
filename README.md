@@ -77,3 +77,6 @@ Reviews
 
 [Best of the Net: Repeat]:http://experimentalgameplay.com/blog/2010/04/best-of-the-net-repeat/
 [Experimental Games Project – April – Repeat]:http://www.gamerswithjobs.com/node/50186
+
+[Blogger](https://bitsits.blogspot.com/2010/04/push-puzzle.html)
+[Tumblr](http://bitsits.tumblr.com/post/96178291080/push-puzzle-the-april-theme-for-experimental)
