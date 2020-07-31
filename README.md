@@ -1,6 +1,6 @@
 Push Puzzle
 ===
-The April theme for [Experimental Gameplay Project][project] is [Wash, Rinse, and REPEAT][theme].
+The April theme for [Experimental Gameplay Project] is [Wash, Rinse, and REPEAT][theme].
 
 Screenshots
 ---
@@ -71,7 +71,7 @@ Reviews
 [Shubhajit Saha]: https://suvozit.blogspot.com
 [Maya Agarwal]: https://mayaagarwal.blogspot.com
 
-[project]: http://experimentalgameplay.com/
+[Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/04/in-april-wash-rinse-and-repeat/
 [zip]: https://github.com/Bitsits/Push-Puzzle/raw/master/Push%20Puzzle.zip
 
