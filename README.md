@@ -4,9 +4,9 @@ The April theme for [Experimental Gameplay Project] is [Wash, Rinse, and REPEAT]
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/push%20puzzle%201.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/push%20puzzle%202.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/push%20puzzle%203.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%201.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%202.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%203.png)
 
 Download Executable
 ---
@@ -41,7 +41,7 @@ Credits
 License
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/cc.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -73,7 +73,7 @@ Reviews
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/04/in-april-wash-rinse-and-repeat/
-[zip]: https://github.com/Bitsits/Push-Puzzle/raw/master/Push%20Puzzle.zip
+[zip]: https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Push%20Puzzle.zip
 
 [Best of the Net: Repeat]: http://experimentalgameplay.com/blog/2010/04/best-of-the-net-repeat/
 [Experimental Games Project – April – Repeat]: http://www.gamerswithjobs.com/node/50186
