@@ -4,9 +4,9 @@ The April theme for [Experimental Gameplay Project] is [Wash, Rinse, and REPEAT]
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%201.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%202.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%203.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/push%20puzzle%201.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/push%20puzzle%202.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/push%20puzzle%203.png)
 
 Download Executable
 ---
@@ -40,11 +40,9 @@ Credits
 
 License
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 Reviews
 ---
