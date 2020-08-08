@@ -12,18 +12,15 @@ Download Executable
 ---
 [Push Puzzle.zip][zip] (6.69 MB)
 
-
 Instructions
 ---
 You can slide the puzzle blocks using with mouse <kbd>LEFT BUTTON</kbd>. The top and the bottom block can slide vertically and side ones can slide horizontally.
 
 But if you make a mess you have to repeat the level.
 
-
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
-
 
 Credits
 ---
@@ -37,18 +34,15 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
-[![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/cc.png)][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]
-
+[![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/cc.png)][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]  
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 Reviews
 ---
 - [Best of the Net: Repeat], Experimental Gameplay Project. 
 - [Experimental Games Project – April – Repeat], Gamers with Jobs.
-
 
 [.NET Framework 3.5 SP1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
